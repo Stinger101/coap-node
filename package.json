@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "busyman": "^0.3.0",
-    "coap": "https://github.com/Stinger101/node-coap/tarball/master#8512431",
+    "coap": "https://github.com/Stinger101/node_coap/tarball/master#e72f8b3",
     "debug": "^2.2.0",
     "lwm2m-codec": "^0.0.9",
     "lwm2m-id": "^1.6.1",
